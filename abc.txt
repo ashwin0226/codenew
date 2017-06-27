@@ -1,0 +1,3 @@
+Hi
+
+let create a new application which involves with the new version 2.0 Angular. 
