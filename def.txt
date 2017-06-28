@@ -1,0 +1,7 @@
+Hi
+
+Welcome the base branch
+Write the base file of the code that helps the project to be viewed by the user
+insert the code into the workspace
+Create a group place to make or discuss about the code modifications
+
